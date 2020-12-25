@@ -21,7 +21,7 @@ this is certainly not the best possible instance of Haskell programming.
 Be that as it may, it was a good opportunity for me to get my hands dirty
 with some functional programming.
 
-Ways to further improve the program:
+### Ways to further improve the program:
 * In general, it is considered better practice to avoid explicit recursion.
 I however, had to use it in a few places, just to get things moving and
 make everything work as soon as possible. One could certainly find all
